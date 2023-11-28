@@ -1,6 +1,6 @@
 const IMAGES = {
     headerImg: new URL('./headerImg.png', import.meta.url).href,
-    twitterIcon: new URL('./Twitter-Icon.svg', import.meta.url).href,
+    TwitterIcon: new URL('./Twitter-Icon.svg', import.meta.url).href,
     MetaIcon: new URL('./Meta-Icon.svg', import.meta.url).href,
     InstagramIcon: new URL('./Instagram-Icon.svg', import.meta.url).href,
     GithubIcon: new URL('./Github-Icon.svg', import.meta.url).href,
